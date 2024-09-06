@@ -5,7 +5,7 @@
 // @description  Calc Gelano
 // @author       Script From Adcoss95 & CorentinGC, Edited by ZenkiuD
 // @match        https://place.zevent.fr/*
-// @icon         https://raw.githubusercontent.com/A-DBN/Calc-ZPlace/main/icon.jpg
+// @icon         https://raw.githubusercontent.com/A-DBN/Calc-ZPlace/main/icon.webp
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/A-DBN/Calc-ZPlace/main/humi.user.js
 // @updateURL    https://raw.githubusercontent.com/A-DBN/Calc-ZPlace/main/humi.user.js

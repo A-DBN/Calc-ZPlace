@@ -14,7 +14,7 @@
 
 const DEBUG = false;
 
-const OVERLAY_URL = "https://raw.githubusercontent.com/A-DBN/Calc-ZPlace/main/calc.png";
+const OVERLAY_URL = "https://raw.githubusercontent.com/A-DBN/Calc-ZPlace/main/calc.svg";
 const opts = {
     OVERLAY_STATE: true,
     OVERLAY_OPACITY: 0.6,

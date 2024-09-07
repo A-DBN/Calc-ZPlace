@@ -14,7 +14,7 @@ Original authors : oralekin, LittleEndu, ekgame, Wieku, DeadRote
 
 ▶️ **Cliquez sur le lien pour l'installer automatiquement :** [https://github.com/A-DBN/Calc-ZPlace/raw/main/humi.user.js](../../raw/main/humi.user.js)
 
-▶️ Allez sur la page https://place.zevent.fr *(ou rafraichissez la page `F5` ou `Shift+F5` pour vider le cache)*, et allez tout en **BAS A GAUCHE**, vous devriez voir le calque apparaitre *(des points de couleurs)*
+▶️ Allez sur la page https://place.zevent.fr *(ou rafraichissez la page `F5` ou `Shift+F5` pour vider le cache)*, et allez tout en **HAUT A GAUCHE**, vous devriez voir le calque apparaitre *(des points de couleurs)*
 
 ___
 
@@ -26,4 +26,4 @@ ___
 
 ▶️ **Click on the link to install it automatically:** [https://github.com/A-DBN/Calc-ZPlace/raw/main/humi.user.js](../../raw/main/humi.user.js)
 
-▶️ Go to the https://place.zevent.fr *(or refresh the page with `F5` or `Shift+F5` to empty the cache)*, and go all the way to the **BOTTOM LEFT**, you should see the layer appear (colored dots)
+▶️ Go to the https://place.zevent.fr *(or refresh the page with `F5` or `Shift+F5` to empty the cache)*, and go all the way to the **TOP LEFT**, you should see the layer appear (colored dots)

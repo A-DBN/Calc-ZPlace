@@ -2,7 +2,7 @@
 // @name         ZEvent Place - Humility
 // @namespace    https://github.com/A-DBN/Calc-ZPlace/issues
 // @version      0.1
-// @description  Calc Gelano
+// @description  Calc-ZPlace
 // @author       Script From Adcoss95 & CorentinGC, Edited by ZenkiuD
 // @match        https://place.zevent.fr/*
 // @icon         https://raw.githubusercontent.com/A-DBN/Calc-ZPlace/main/icon.webp
@@ -29,7 +29,6 @@ const position = {
     WIDTH:"100",
     HEIGH:"100",
 }
-
 
 const log = (msg) => {
     if (DEBUG) {

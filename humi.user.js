@@ -63,6 +63,7 @@ const log = (msg) => {
         overlay.style.position = "absolute";
         overlay.style.left = position.X + "px";
         overlay.style.top = position.Y + "px";
+        overlay.style.imageRendering = "pixelated";
         overlay.style.width = position.WIDTH + "px";
         overlay.style.height = position.HEIGH + "px";
         overlay.style.opacity = opts.OVERLAY_OPACITY;
